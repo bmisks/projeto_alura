@@ -10,4 +10,4 @@ No caso de contas para jovens entre 16 e 18 anos, é necessário que um adulto r
 ## Nossos serviços
 Todos os serviços da Bytebank foram criados para eliminar burocracias e garantir que você comece no mesmo dia a gerir suas finanças. Isso significa que boa parte dos serviços é gratuito, como a criação de cartão de crédito ou débito e saques com limite de 4 vezes ao mês. Além disso, você pode participar do programa de pontos ao acumular saldo em cada compra realizada.
 ## Como criar uma conta
-Quer iniciar sua jornada na Bytebank? Venha para nosso tutorial de Como criar sua conta.
+Quer iniciar sua jornada na Bytebank? Venha para nosso tutorial de [**Como criar sua conta**](guia_how_to.md).
